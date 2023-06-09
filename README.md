@@ -1,4 +1,8 @@
-### Hi there 👋
+
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/e8vLgKW80EBxLjRWZw/giphy.webp" width="100"/>
+  <h3>你好! I'm Edwin.👋<h3>
+</div>
 
 <!--
 **Edwin-Jaya/Edwin-Jaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
