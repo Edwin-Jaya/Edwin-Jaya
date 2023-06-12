@@ -18,7 +18,7 @@
 
 # Hi, there! 👋
 Informatics Engineering sophomore diving into the world of Machine Learning and Data Science. Passionate about leveraging technology to solve real-world problems and uncover meaningful insights. Excited to explore the endless possibilities at the intersection of data and intelligence.
-- 🌱 I’m currently learning about statistics for data science and machine learning.
+- 🌱 I’m currently learning statistics for data science and machine learning.
 - 📫 How to reach me       <a href="https://www.linkedin.com/in/edwin-jaya-31bb0b248/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
