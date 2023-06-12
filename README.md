@@ -16,14 +16,14 @@
   </div>
 </div>
 
-# Hi, there! 👋
+# Halo, semuanya!👋
 Informatics Engineering sophomore diving into the world of Machine Learning and Data Science. Passionate about leveraging technology to solve real-world problems and uncover meaningful insights. Excited to explore the endless possibilities at the intersection of data and intelligence.
 - 🌱 I’m currently learning statistics for data science and machine learning.
 - 📫 How to reach me       <a href="https://www.linkedin.com/in/edwin-jaya-31bb0b248/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
 
-## Languages
+# Languages💻
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
@@ -32,7 +32,7 @@ Informatics Engineering sophomore diving into the world of Machine Learning and 
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="Css" alt="Css" width="40" height="40"/>&nbsp;
 </div>
 
-## Stats
+# Stats🔥
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Edwin-jaya&theme=yellowdark&hide_border=true)](https://git.io/streak-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edwin-jaya&layout=compact&theme=vision-friendly-dark&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
