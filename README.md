@@ -43,7 +43,7 @@ I'm a recent Informatics Engineering graduate passionate about leveraging AI/ML 
 - Building scalable ML pipelines and data engineering solutions
 - Creating educational content to demystify AI/ML concepts
 
-📍 **Location:** Jakarta, Indonesia  
+📍 **Location:** Bandung, Indonesia  
 💼 **Status:** Open to internships, entry-level roles, and collaborative projects  
 🌐 **Work Mode:** On-site | Hybrid | Remote
 
