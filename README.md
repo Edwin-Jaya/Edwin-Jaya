@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="github banner.png"/>
+  <img src="Profile_banner_black_and_white.png"/>
   <div id="badges">
       <a href="https://www.linkedin.com/in/edwin-jaya-31bb0b248/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
