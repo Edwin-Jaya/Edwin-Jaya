@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Profile_banner_black_and_white.png" alt="Edwin Liona Jaya Banner" width="100%"/>
+  <img src="Edwin Liona Jaya - Banner.png" alt="Edwin Liona Jaya Banner" width="100%"/>
 
   <h1>Hi, I'm Edwin Liona Jaya 👋</h1>
 
